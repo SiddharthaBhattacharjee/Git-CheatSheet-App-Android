@@ -3,3 +3,4 @@ A very basic app that has Git Cheat Sheet in a nice readable layout. This app is
 <b>This app is made just for practice and is not intended for any commercial distribution.</b> <br>
 The Cheat Sheet Content is used in compliance with its [Creative Commons Attribution 2.5 Australia License.](https://creativecommons.org/licenses/by/2.5/au/).<br>
 This is a part of [#100DaysOfCode](https://github.com/SiddharthaBhattacharjee/100Days-of-Code).<br>
+(Download Just the Git_Cheatsheet.apk file and install in your android device to try out.)
